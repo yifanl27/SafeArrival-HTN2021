@@ -4,7 +4,7 @@ This repository contains the Java files required to run SafeArrival, a discord b
 
 General Information
 -----
-The purpose of this bot is to generate an appropriate alert system to ensure the safety of individuals as they leave their homes and travel elsewhere for short periods of time. Individuals input the amount of time they will leave for (in minutes), and the bot will check in to see if they have arrived when the time comes. If they have not arrived five minutes after the given time, then the bot will ping a higher role so that to indicate that the user is missing. 
+The purpose of this bot is to generate an appropriate alert system to ensure the safety of individuals as they leave their homes/dorms and travel elsewhere for short periods of time. Individuals input the amount of time they will leave for (in minutes), and the bot will check in to see if they have arrived when the time comes. If they have not arrived five minutes after the given time, then the bot will ping a higher role so that to indicate that the user is missing. 
 
 Libraries
 -----
