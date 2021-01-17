@@ -164,10 +164,6 @@ public class Commands extends ListenerAdapter {
 				}
 			}
 		}
-		
-//		else if(args[0].equalsIgnoreCase(main.bot.Main.prefix + "~add")) {
-//			
-//		}
 	}
 
 
