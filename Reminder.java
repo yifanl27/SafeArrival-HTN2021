@@ -93,6 +93,7 @@ public class Reminder extends Main{
 		
 		List<TextChannel> channels = jda.getTextChannelsByName("general", true);
 		
+		// The following role ID is specific to a certain Discord server. Please replace before using the Bot.
 		for(TextChannel ch : channels)
 		{
 			sendMessage(ch, "Hey <@&799894414184153148>! <@" + user +"> is missing, please contact them! ");
